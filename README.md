@@ -11,6 +11,8 @@
 | PsyFlow Version |0.1.0|
 | PsychoPy Version |2025.1.1              |
 | Modality     |Behavior/EEG                  |
+| Language | Chinese |
+| Voice Name | zh-CN-YunyangNeural |
 
 ## 1. Task Overview
 This task is a classic N-Back cognitive test. Participants are shown a sequence of digits and must determine if the current digit matches the one presented 'N' trials ago. The task includes two blocks: a 1-Back block and a 2-Back block.

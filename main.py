@@ -37,7 +37,7 @@ win, kb = initialize_exp(settings)
 
 # 6. Setup stimulus bank
 stim_bank = StimBank(win, cfg['stim_config'])\
-    .convert_to_voice(['instruction_1back','instruction_2back'])\
+    .convert_to_voice(['instruction_1back','instruction_2back'], voice=settings.voice_name)\
     .preload_all()
 
 # Save settings to file (for logging and reproducibility)
