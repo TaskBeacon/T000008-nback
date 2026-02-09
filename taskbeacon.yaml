@@ -1,0 +1,11 @@
+id: T000008
+slug: nback
+title: "N-Back Task"
+acquisition: eeg
+variant: baseline
+cognitive_domain: []
+maturity: smoke_tested
+version:
+  release_tag: ""
+evidence: []
+maintainer: []
