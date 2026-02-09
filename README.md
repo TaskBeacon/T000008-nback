@@ -4,7 +4,7 @@
 |---|---|
 | Name | N-Back Task |
 | Version | main (1.0) |
-| URL / Repository | https://github.com/TaskBeacon/nback |
+| URL / Repository | https://github.com/TaskBeacon/T000008-nback |
 | Short Description | An N-Back task with 1-back and 2-back conditions. |
 | Created By | zh1peng |
 | Date Updated | 2025/07/24 |
