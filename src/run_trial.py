@@ -1,9 +1,9 @@
-from psyflow import StimUnit
+﻿from psyflow import StimUnit
 from functools import partial
 from psyflow import StimUnit
 from functools import partial
 
-def run_trial(win,kb,settings,condition,stim_bank, n_back, trigger_sender=None,):
+def run_trial(win,kb,settings,condition,stim_bank, n_back, trigger_runtime=None,):
     """
     General-purpose run_trial function for psyflow-based tasks.
 
@@ -21,7 +21,7 @@ def run_trial(win,kb,settings,condition,stim_bank, n_back, trigger_sender=None,)
     trigger_pad = 10 if n_back == 1 else 20
 
     # === Helper for creating StimUnits ===
-    make_unit = partial(StimUnit, win=win, kb=kb,  triggersender=trigger_sender)
+    make_unit = partial(StimUnit, win=win, kb=kb,  runtime=trigger_runtime)
 
     # 1. digit presentation  ===
     make_unit(unit_label="cue") \
@@ -41,3 +41,4 @@ def run_trial(win,kb,settings,condition,stim_bank, n_back, trigger_sender=None,)
         .show(settings.iti_duration)
 
     return trial_data
+
