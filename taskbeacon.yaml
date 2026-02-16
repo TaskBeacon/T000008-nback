@@ -1,4 +1,4 @@
-id: T000008
+﻿id: T000008
 slug: nback
 title: "N-Back Task"
 acquisition: eeg
@@ -7,5 +7,7 @@ cognitive_domain: []
 maturity: smoke_tested
 version:
   release_tag: ""
+contracts:
+  psyflow_taps: v0.1.0
 evidence: []
 maintainer: []

@@ -1,4 +1,4 @@
-# config.yaml
+﻿# config.yaml
 # === Subject info ===
 subinfo_fields:
   - name: subject_id
@@ -46,18 +46,18 @@ window:
 # === Task-Level Settings ===
 task:
   task_name: "eeg_nback"
-  save_path: ./outputs/human
+  save_path: ./outputs/sim
   language: "Chinese"
   voice_name: "zh-CN-YunyangNeural"
-  total_blocks: 2
-  total_trials: 40
+  total_blocks: 1
+  total_trials: 20
   trial_per_block: 20
   conditions: ['match', 'nomatch']  # Fill in specific condition labels as needed
   key_list: [space]
   match_key: space
   nomatch_key: up
   delta: 0.0
-  voice_enabled: true
+  voice_enabled: false
   seed_mode: "same_across_sub"
 
 # === Stimuli Definitions ===
@@ -173,4 +173,19 @@ triggers:
 
   timing:
     post_delay_s: 0.001
+
+sim:
+  output_dir: outputs/sim
+  seed: 0
+  participant_id: sim001
+  session_id: sub-sim001_task-eeg_nback_seed0
+  log_path: outputs/sim/sub-sim001_task-eeg_nback_seed0_sim_events.jsonl
+  policy: warn
+  default_rt_s: 0.2
+  clamp_rt: false
+  responder:
+    type: scripted
+    kwargs:
+      key: space
+      rt_s: 0.40
 
