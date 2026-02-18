@@ -39,6 +39,12 @@ This task is a classic N-Back cognitive test. Participants are shown a sequence 
 |---|---|
 | `generate_nback_conditions` | This function generates the sequence of trials for each block. It ensures a specific ratio of 'match' to 'non-match' trials, and controls for the number of consecutive 'match' trials. |
 
+### Runtime Context Phases
+| Phase Label | Meaning |
+|---|---|
+| `nback_probe_response` | nback probe response stage in `src/run_trial.py` responder context. |
+| `inter_trial_interval` | inter trial interval stage in `src/run_trial.py` responder context. |
+
 ## 3. Configuration Summary
 ### a. Subject Info
 | Field | Meaning |
@@ -87,7 +93,7 @@ This task is a classic N-Back cognitive test. Participants are shown a sequence 
 | key_press | 4 |
 | no_response | 5 |
 
-## 4. Methods
+## 4. Methods (for academic publication)
 Participants perform an N-Back task, a continuous performance paradigm used to measure working memory. The experiment is divided into two blocks: a 1-Back and a 2-Back condition. In each trial, a digit (1-9) is presented on the screen. Participants are instructed to press the spacebar if the current digit is identical to the digit presented N trials previously (a "match").
 
 The task begins with a 1-Back block, followed by a 2-Back block. Each block consists of 20 trials. The sequence of stimuli is pseudo-randomly generated to contain approximately 30% match trials. A digit is displayed for 800ms, during which a response can be made. This is followed by a 1200ms inter-trial interval. Feedback on accuracy for match trials is provided at the end of each block.

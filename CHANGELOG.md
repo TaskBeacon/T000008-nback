@@ -2,12 +2,23 @@
 
 All notable development changes for T000008-nback are documented here.
 
+## [1.1.1] - 2026-02-18
+
+### Changed
+- Refactored responder context phase names in `src/run_trial.py` to task-specific labels (removed generic MID-style phase naming).
+- Updated stage comments in `src/run_trial.py` to phase-aligned labels for cleaner auditability.
+- Updated `README.md` to keep runtime phase documentation aligned with the implemented trial context phases.
+
+### Fixed
+- Removed legacy stage comment patterns (`cue/anticipation/target/feedback`) from trial runtime code.
+
 ## [1.1.0] - 2026-02-17
 
 ### Added
 - Added mode-aware main.py flow for human, qa, and sim modes.
 - Added split runtime configs: config/config.yaml, config/config_qa.yaml, config/config_scripted_sim.yaml, and config/config_sampler_sim.yaml.
-- Added task-local responder scaffold in esponders/task_sampler.py.
+- Added task-local responder scaffold in 
+esponders/task_sampler.py.
 - Added outputs/.gitkeep and standardized output folders for human/qa/sim runs.
 
 ### Changed

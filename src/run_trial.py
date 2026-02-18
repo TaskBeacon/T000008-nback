@@ -2,7 +2,7 @@
 
 from psyflow import StimUnit, set_trial_context
 
-# trial stages in contract order: cue -> anticipation -> target -> feedback
+# trial stages use task-specific phase labels via set_trial_context(...)
 _TRIAL_COUNTER = 0
 
 
@@ -45,18 +45,18 @@ def run_trial(
 
     make_unit = partial(StimUnit, win=win, kb=kb, runtime=trigger_runtime)
 
-    # cue
-    # target
+    # phase: nback_probe_response
+    # phase: nback_probe_response
     cue_unit = make_unit(unit_label="cue").add_stim(stim_bank.rebuild("stim_digit", text=_digit))
     set_trial_context(
         cue_unit,
         trial_id=trial_id,
-        phase="target",
+        phase="nback_probe_response",
         deadline_s=_deadline_s(settings.cue_duration),
         valid_keys=list(settings.key_list),
         block_id=block_id,
         condition_id=str(condition),
-        task_factors={"condition": str(condition), "stage": "target", "n_back": int(n_back), "digit": str(_digit), "block_idx": block_idx},
+        task_factors={"condition": str(condition), "stage": "nback_probe_response", "n_back": int(n_back), "digit": str(_digit), "block_idx": block_idx},
         stim_id="stim_digit",
     )
     cue_unit.capture_response(
@@ -69,20 +69,20 @@ def run_trial(
         terminate_on_response=True,
     ).to_dict(trial_data)
 
-    # anticipation
+    # phase: inter_trial_interval
     iti_unit = make_unit(unit_label="iti").add_stim(stim_bank.get("stim_iti"))
     set_trial_context(
         iti_unit,
         trial_id=trial_id,
-        phase="anticipation",
+        phase="inter_trial_interval",
         deadline_s=_deadline_s(settings.iti_duration),
         valid_keys=list(settings.key_list),
         block_id=block_id,
         condition_id=str(condition),
-        task_factors={"condition": str(condition), "stage": "iti", "n_back": int(n_back), "block_idx": block_idx},
+        task_factors={"condition": str(condition), "stage": "inter_trial_interval", "n_back": int(n_back), "block_idx": block_idx},
         stim_id="stim_iti",
     )
     iti_unit.show(settings.iti_duration).to_dict(trial_data)
 
-    # feedback (n-back uses no explicit feedback screen)
+    # outcome display (n-back uses no explicit outcome screen)
     return trial_data
