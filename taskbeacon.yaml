@@ -6,8 +6,13 @@ variant: baseline
 cognitive_domain: []
 maturity: smoke_tested
 version:
-  release_tag: ""
+  release_tag: "1.1.2"
 contracts:
   psyflow_taps: v0.1.0
-evidence: []
+evidence:
+  - references/references.yaml
+  - references/task_logic_audit.md
+  - outputs/qa/qa_report.json
+  - outputs/qa/static_report.json
+  - outputs/qa/contract_report.json
 maintainer: []

@@ -31,8 +31,15 @@ This task is a classic N-Back cognitive test. Participants are shown a sequence 
 ### Trial-Level Flow
 | Step | Description |
 |---|---|
-| 1. Digit Presentation | A digit is presented on the screen for the duration specified by `cue_duration`. The participant can respond during this time. |
+| 1. Digit Presentation | A digit is presented on the screen for the duration specified by `probe_duration`. The participant can respond during this time. |
 | 2. Inter-Trial Interval (ITI) | A blank screen is shown for the duration specified by `iti_duration`. |
+
+### Controller Logic
+| Controller Element | Description |
+|---|---|
+| Condition Generator | `generate_nback_conditions` generates `match_<digit>` / `nomatch_<digit>` sequences with match-ratio and run-length constraints. |
+| Block Mapping | First half of blocks run 1-back, second half run 2-back. |
+| Runtime Context | Trial phases are emitted as `nback_probe_response` and `inter_trial_interval` via `set_trial_context(...)`. |
 
 ### Other Logic
 | Function | Description |
@@ -78,8 +85,8 @@ This task is a classic N-Back cognitive test. Participants are shown a sequence 
 ### d. Timing
 | Phase | Duration |
 |---|---|
-| cue_duration | 0.8 |
-| iti_duration | [1.2] |
+| probe_duration | 0.8 |
+| iti_duration | 1.2 |
 
 ### e. Triggers
 | Event | Code |

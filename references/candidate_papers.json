@@ -1,0 +1,2747 @@
+[
+  {
+    "id": "W2169918686",
+    "title": "MEG and EEG data analysis with MNE-Python",
+    "authors": [
+      "Alexandre Gramfort"
+    ],
+    "year": 2013,
+    "journal": "Frontiers in Neuroscience",
+    "doi_or_url": "https://doi.org/10.3389/fnins.2013.00267",
+    "citation_count": 3753,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2123163997",
+    "title": "ERPLAB: an open-source toolbox for the analysis of event-related potentials",
+    "authors": [
+      "Javier L\u00f3pez\u2010Calder\u00f3n",
+      "Steven J. Luck"
+    ],
+    "year": 2014,
+    "journal": "Frontiers in Human Neuroscience",
+    "doi_or_url": "https://doi.org/10.3389/fnhum.2014.00213",
+    "citation_count": 2581,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W186716551",
+    "title": "Guidelines for Management of Ischaemic Stroke and Transient Ischaemic Attack 2008",
+    "authors": [
+      "Peter A. Ringleb",
+      "Marie Germaine Bousser"
+    ],
+    "year": 2008,
+    "journal": "Cerebrovascular Diseases",
+    "doi_or_url": "https://doi.org/10.1159/000131083",
+    "citation_count": 2488,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W3023211159",
+    "title": "A comprehensive survey on support vector machine classification: Applications, challenges and trends",
+    "authors": [
+      "Jair Cervantes",
+      "Farid Garc\u00eda\u2010Lamont",
+      "Lisbeth Rodr\u00edguez-Mazahua",
+      "Asdr\u00fabal L\u00f3pez\u2010Chau"
+    ],
+    "year": 2020,
+    "journal": "Neurocomputing",
+    "doi_or_url": "https://doi.org/10.1016/j.neucom.2019.10.118",
+    "citation_count": 2151,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2100661105",
+    "title": "Guidelines for the diagnosis and management of syncope (version 2009): The Task Force for the Diagnosis and Management of Syncope of the European Society of Cardiology (ESC)",
+    "authors": [
+      "Andr\u00e9s Moy\u00e1",
+      "Richard Sutton",
+      "Fabrizio Ammirati",
+      "J.-J. Blanc",
+      "Michele Brignole",
+      "Johannes B. Dahm",
+      "Jean\u2010Claude Deharo",
+      "Jacek Gajek",
+      "Knut Gjesdal",
+      "Andrew Krahn",
+      "M Massin",
+      "Mauro Pepi"
+    ],
+    "year": 2009,
+    "journal": "European Heart Journal",
+    "doi_or_url": "https://doi.org/10.1093/eurheartj/ehp298",
+    "citation_count": 2034,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2913144876",
+    "title": "Cognitive Architecture and Instructional Design: 20\u00a0Years Later",
+    "authors": [
+      "John Sweller",
+      "Jeroen J. G. van Merri\u00ebnboer",
+      "Fred Paas"
+    ],
+    "year": 2019,
+    "journal": "Educational Psychology Review",
+    "doi_or_url": "https://doi.org/10.1007/s10648-019-09465-5",
+    "citation_count": 1692,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2951635356",
+    "title": "Big data in healthcare: management, analysis and future prospects",
+    "authors": [
+      "Sabyasachi Dash",
+      "Sushil Kumar Shakyawar",
+      "Lokesh Sharma",
+      "Sandeep Kaushik"
+    ],
+    "year": 2019,
+    "journal": "Journal Of Big Data",
+    "doi_or_url": "https://doi.org/10.1186/s40537-019-0217-0",
+    "citation_count": 1667,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2562199918",
+    "title": "Enhancing Our Lives with Immersive Virtual Reality",
+    "authors": [
+      "Mel Slater",
+      "Mar\u00eda V. S\u00e1nchez-Vives"
+    ],
+    "year": 2016,
+    "journal": "Frontiers in Robotics and AI",
+    "doi_or_url": "https://doi.org/10.3389/frobt.2016.00074",
+    "citation_count": 1656,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2164470519",
+    "title": "Towards a Neurobiological Theory of Consciousness",
+    "authors": [
+      "Francis Crick",
+      "Christof Koch"
+    ],
+    "year": 1990,
+    "journal": "CaltechAUTHORS (California Institute of Technology)",
+    "doi_or_url": "https://openalex.org/W2164470519",
+    "citation_count": 1650,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2581042172",
+    "title": "Internet of Things: Architectures, Protocols, and Applications",
+    "authors": [
+      "Pallavi Sethi",
+      "Smruti R. Sarangi"
+    ],
+    "year": 2017,
+    "journal": "Journal of Electrical and Computer Engineering",
+    "doi_or_url": "https://doi.org/10.1155/2017/9324035",
+    "citation_count": 1648,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2096962395",
+    "title": "Attention, Uncertainty, and Free-Energy",
+    "authors": [
+      "Harriet Feldman",
+      "Karl Friston"
+    ],
+    "year": 2010,
+    "journal": "Frontiers in Human Neuroscience",
+    "doi_or_url": "https://doi.org/10.3389/fnhum.2010.00215",
+    "citation_count": 1382,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2087946919",
+    "title": "Distributed representations, simple recurrent networks, and grammatical structure",
+    "authors": [
+      "Jeffrey L. Elman"
+    ],
+    "year": 1991,
+    "journal": "Machine Learning",
+    "doi_or_url": "https://doi.org/10.1007/bf00114844",
+    "citation_count": 1381,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2005022581",
+    "title": "Self-awareness, self-regulation, and self-transcendence (S-ART): a framework for understanding the neurobiological mechanisms of mindfulness",
+    "authors": [
+      "David R. Vago",
+      "David Silbersweig"
+    ],
+    "year": 2012,
+    "journal": "Frontiers in Human Neuroscience",
+    "doi_or_url": "https://doi.org/10.3389/fnhum.2012.00296",
+    "citation_count": 1276,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W4242743388",
+    "title": "Publication recommendations for electrodermal measurements",
+    "authors": [
+      "Wolfram Boucsein",
+      "Don C Fowles",
+      "Sverre Grimnes",
+      "Gershon Ben-Shakhar",
+      "Walton T roth",
+      "Michael E Dawson",
+      "Diane L Filion"
+    ],
+    "year": 2012,
+    "journal": "Psychophysiology",
+    "doi_or_url": "https://doi.org/10.1111/j.1469-8986.2012.01384.x",
+    "citation_count": 1205,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2107022859",
+    "title": "Harnessing neuroplasticity for clinical applications",
+    "authors": [
+      "Steven C. Cramer",
+      "Mriganka Sur",
+      "Bruce H. Dobkin",
+      "Charles P. O\u2019Brien",
+      "Terence D. Sanger",
+      "John Q. Trojanowski",
+      "Judith M. Rumsey",
+      "Ramona Hicks",
+      "Judy L. Cameron",
+      "David Chen",
+      "Wen Chen",
+      "Leonardo G. Cohen"
+    ],
+    "year": 2011,
+    "journal": "Brain",
+    "doi_or_url": "https://doi.org/10.1093/brain/awr039",
+    "citation_count": 1187,
+    "is_high_impact": true,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2051526952",
+    "title": "Highly Selective Receptive Fields in Mouse Visual Cortex",
+    "authors": [
+      "Cristopher M. Niell",
+      "Michael P. Stryker"
+    ],
+    "year": 2008,
+    "journal": "Journal of Neuroscience",
+    "doi_or_url": "https://doi.org/10.1523/jneurosci.0623-08.2008",
+    "citation_count": 1172,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W1969469858",
+    "title": "From the Phenomenology to the Mechanisms of Consciousness: Integrated Information Theory 3.0",
+    "authors": [
+      "Masafumi Oizumi",
+      "Larissa Albantakis",
+      "Giulio Tononi"
+    ],
+    "year": 2014,
+    "journal": "PLoS Computational Biology",
+    "doi_or_url": "https://doi.org/10.1371/journal.pcbi.1003588",
+    "citation_count": 1151,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2169697627",
+    "title": "Case Definitions, Diagnostic Algorithms, and Priorities in Encephalitis: Consensus Statement of the International Encephalitis Consortium",
+    "authors": [
+      "Arun Venkatesan",
+      "Allan R. Tunkel",
+      "Karen C. Bloch",
+      "Adam S. Lauring",
+      "James J. Sejvar",
+      "Ari Bitnun",
+      "J.\u2010P. Stahl",
+      "Alexandra Mailles",
+      "Michael Drebot",
+      "Charles E. Rupprecht",
+      "Jeffrey A. Yoder",
+      "Jennifer R. Cope"
+    ],
+    "year": 2013,
+    "journal": "Clinical Infectious Diseases",
+    "doi_or_url": "https://doi.org/10.1093/cid/cit458",
+    "citation_count": 1121,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2090017477",
+    "title": "Distinct Cerebellar Contributions to Intrinsic Connectivity Networks",
+    "authors": [
+      "Christophe Habas",
+      "Nirav Kamdar",
+      "Daniel H Nguyen",
+      "Katherine E. Prater",
+      "Christian F. Beckmann",
+      "Vinod Menon",
+      "Michael D. Greicius"
+    ],
+    "year": 2009,
+    "journal": "Journal of Neuroscience",
+    "doi_or_url": "https://doi.org/10.1523/jneurosci.1868-09.2009",
+    "citation_count": 1094,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2145114078",
+    "title": "Cognitive load theory, educational research, and instructional design: some food for thought",
+    "authors": [
+      "Ton de Jong"
+    ],
+    "year": 2009,
+    "journal": "Instructional Science",
+    "doi_or_url": "https://doi.org/10.1007/s11251-009-9110-0",
+    "citation_count": 1084,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W1997027149",
+    "title": "Trial-by-Trial Coupling of Concurrent Electroencephalogram and Functional Magnetic Resonance Imaging Identifies the Dynamics of Performance Monitoring",
+    "authors": [
+      "Stefan Debener",
+      "Markus Ullsperger",
+      "Markus Siegel",
+      "Katja Fiehler",
+      "D. Yves von Cramon",
+      "Andreas K. Engel"
+    ],
+    "year": 2005,
+    "journal": "Journal of Neuroscience",
+    "doi_or_url": "https://doi.org/10.1523/jneurosci.3286-05.2005",
+    "citation_count": 1057,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2007430976",
+    "title": "Theta Rhythms Coordinate Hippocampal\u2013Prefrontal Interactions in a Spatial Memory Task",
+    "authors": [
+      "Matthew W. Jones",
+      "Matthew A. Wilson"
+    ],
+    "year": 2005,
+    "journal": "PLoS Biology",
+    "doi_or_url": "https://doi.org/10.1371/journal.pbio.0030402",
+    "citation_count": 1048,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2026384313",
+    "title": "Graph theoretical analysis of complex networks in the brain",
+    "authors": [
+      "Cornelis J. Stam",
+      "Jaap C. Reijneveld"
+    ],
+    "year": 2007,
+    "journal": "Nonlinear Biomedical Physics",
+    "doi_or_url": "https://doi.org/10.1186/1753-4631-1-3",
+    "citation_count": 1035,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2006760951",
+    "title": "Neural Ensembles in CA3 Transiently Encode Paths Forward of the Animal at a Decision Point",
+    "authors": [
+      "Adam Johnson",
+      "A. David Redish"
+    ],
+    "year": 2007,
+    "journal": "Journal of Neuroscience",
+    "doi_or_url": "https://doi.org/10.1523/jneurosci.3761-07.2007",
+    "citation_count": 1033,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2111177605",
+    "title": "Alpha and gamma oscillations characterize feedback and feedforward processing in monkey visual cortex",
+    "authors": [
+      "Timo van Kerkoerle",
+      "Matthew W. Self",
+      "Bruno Dagnino",
+      "Marie-Alice Gariel-Mathis",
+      "Jasper Poort",
+      "Chris van der Togt",
+      "Pieter R. Roelfsema"
+    ],
+    "year": 2014,
+    "journal": "Proceedings of the National Academy of Sciences",
+    "doi_or_url": "https://doi.org/10.1073/pnas.1402773111",
+    "citation_count": 1019,
+    "is_high_impact": true,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2090056988",
+    "title": "Expect the Unexpected: Event-related Brain Response to Morphosyntactic Violations",
+    "authors": [
+      "Seana Coulson",
+      "Jonathan King",
+      "Marta Kutas"
+    ],
+    "year": 1998,
+    "journal": "Language and Cognitive Processes",
+    "doi_or_url": "https://doi.org/10.1080/016909698386582",
+    "citation_count": 920,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2085462417",
+    "title": "Brain Connectivity Related to Working Memory Performance",
+    "authors": [
+      "Michelle Hampson",
+      "Naomi Driesen",
+      "Pawel Skudlarski",
+      "John C. Gore",
+      "R. Todd Constable"
+    ],
+    "year": 2006,
+    "journal": "Journal of Neuroscience",
+    "doi_or_url": "https://doi.org/10.1523/jneurosci.3408-06.2006",
+    "citation_count": 869,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W1980240171",
+    "title": "AT THE INTERFACE: DYNAMIC INTERACTIONS OF EXPLICIT AND IMPLICIT LANGUAGE KNOWLEDGE",
+    "authors": [
+      "Nick C. Ellis"
+    ],
+    "year": 2005,
+    "journal": "Studies in Second Language Acquisition",
+    "doi_or_url": "https://doi.org/10.1017/s027226310505014x",
+    "citation_count": 861,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2118792163",
+    "title": "Induced gamma-band activity during the delay of a visual short-term memory task in humans.",
+    "authors": [
+      "Catherine Tallon\u2010Baudry",
+      "Olivier Bertrand",
+      "F. Peronnet",
+      "J. Pernier"
+    ],
+    "year": 1998,
+    "journal": "PubMed",
+    "doi_or_url": "https://doi.org/10.1523/jneurosci.18-11-04244.1998",
+    "citation_count": 838,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2788657169",
+    "title": "Pupillometry: Psychology, Physiology, and Function",
+    "authors": [
+      "Sebastiaan Math\u00f4t"
+    ],
+    "year": 2018,
+    "journal": "Journal of Cognition",
+    "doi_or_url": "https://doi.org/10.5334/joc.18",
+    "citation_count": 836,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2044215073",
+    "title": "Cross-Frequency Phase\u2013Phase Coupling between Theta and Gamma Oscillations in the Hippocampus",
+    "authors": [
+      "Mariano Belluscio",
+      "Kenji Mizuseki",
+      "Robert Schmidt",
+      "Richard Kempter",
+      "Gy\u00f6rgy Buzs\u00e1ki"
+    ],
+    "year": 2012,
+    "journal": "Journal of Neuroscience",
+    "doi_or_url": "https://doi.org/10.1523/jneurosci.4122-11.2012",
+    "citation_count": 834,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2171746332",
+    "title": "Independent EEG Sources Are Dipolar",
+    "authors": [
+      "Arnaud Delorme",
+      "Jason Palmer",
+      "Julie Onton",
+      "Robert Oostenveld",
+      "Scott Makeig"
+    ],
+    "year": 2012,
+    "journal": "PLoS ONE",
+    "doi_or_url": "https://doi.org/10.1371/journal.pone.0030135",
+    "citation_count": 826,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W1449283962",
+    "title": "Age-Related Changes in 1/<i>f</i>Neural Electrophysiological Noise",
+    "authors": [
+      "Bradley Voytek",
+      "Mark Kramer",
+      "John Case",
+      "Kyle Q. Lepage",
+      "Zechari Ryan Tempesta",
+      "Robert T. Knight",
+      "Adam Gazzaley"
+    ],
+    "year": 2015,
+    "journal": "Journal of Neuroscience",
+    "doi_or_url": "https://doi.org/10.1523/jneurosci.2332-14.2015",
+    "citation_count": 820,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2036299899",
+    "title": "The cognitive neuroscience of creativity",
+    "authors": [
+      "Arne Dietrich"
+    ],
+    "year": 2004,
+    "journal": "Psychonomic Bulletin & Review",
+    "doi_or_url": "https://doi.org/10.3758/bf03196731",
+    "citation_count": 820,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2004482271",
+    "title": "Transcranial Alternating Current Stimulation Enhances Individual Alpha Activity in Human EEG",
+    "authors": [
+      "Tino Zaehle",
+      "Stefan Rach",
+      "Christoph S. Herrmann"
+    ],
+    "year": 2010,
+    "journal": "PLoS ONE",
+    "doi_or_url": "https://doi.org/10.1371/journal.pone.0013766",
+    "citation_count": 810,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2557390385",
+    "title": "The Segregation and Integration of Distinct Brain Networks and Their Relationship to Cognition",
+    "authors": [
+      "Jessica R. Cohen",
+      "Mark D\u2019Esposito"
+    ],
+    "year": 2016,
+    "journal": "Journal of Neuroscience",
+    "doi_or_url": "https://doi.org/10.1523/jneurosci.2965-15.2016",
+    "citation_count": 808,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2123523993",
+    "title": "Brain Maturation in Adolescence and Young Adulthood: Regional Age-Related Changes in Cortical Thickness and White Matter Volume and Microstructure",
+    "authors": [
+      "Christian K. Tamnes",
+      "Ylva \u00d8stby",
+      "Anders M. Fjell",
+      "Lars T. Westlye",
+      "Paulina Due\u2010T\u00f8nnessen",
+      "Kristine B. Walhovd"
+    ],
+    "year": 2009,
+    "journal": "Cerebral Cortex",
+    "doi_or_url": "https://doi.org/10.1093/cercor/bhp118",
+    "citation_count": 796,
+    "is_high_impact": true,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2165702601",
+    "title": "Gamma Oscillations Correlate with Working Memory Load in Humans",
+    "authors": [
+      "Marc W. Howard"
+    ],
+    "year": 2003,
+    "journal": "Cerebral Cortex",
+    "doi_or_url": "https://doi.org/10.1093/cercor/bhg084",
+    "citation_count": 783,
+    "is_high_impact": true,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W1552598564",
+    "title": "Resting-state networks show dynamic functional connectivity in awake humans and anesthetized macaques",
+    "authors": [
+      "R. Matthew Hutchison",
+      "Thilo Womelsdorf",
+      "Joseph S. Gati",
+      "Stefan Everling",
+      "Ravi S. Menon"
+    ],
+    "year": 2012,
+    "journal": "Human Brain Mapping",
+    "doi_or_url": "https://doi.org/10.1002/hbm.22058",
+    "citation_count": 769,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2115066732",
+    "title": "Dissociating the Roles of the Cerebellum and Motor Cortex during Adaptive Learning: The Motor Cortex Retains What the Cerebellum Learns",
+    "authors": [
+      "Joseph M. Galea",
+      "Alejandro V\u00e1zquez",
+      "Natasha Pasricha",
+      "Jean\u2010Jacques Orban de Xivry",
+      "Pablo Celnik"
+    ],
+    "year": 2010,
+    "journal": "Cerebral Cortex",
+    "doi_or_url": "https://doi.org/10.1093/cercor/bhq246",
+    "citation_count": 768,
+    "is_high_impact": true,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2120574801",
+    "title": "Reactivation of Hippocampal Cell Assemblies: Effects of Behavioral State, Experience, and EEG Dynamics",
+    "authors": [
+      "Hemant S. Kudrimoti",
+      "Carol A. Barnes",
+      "Bruce L. McNaughton"
+    ],
+    "year": 1999,
+    "journal": "Journal of Neuroscience",
+    "doi_or_url": "https://doi.org/10.1523/jneurosci.19-10-04090.1999",
+    "citation_count": 767,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2132551870",
+    "title": "Informatics and Data Mining Tools and Strategies for the Human Connectome Project",
+    "authors": [
+      "Daniel S. Marcus",
+      "John Harwell",
+      "Timothy R. Olsen",
+      "Michael R. Hodge",
+      "Matthew F. Glasser",
+      "Fred Prior",
+      "Mark Jenkinson",
+      "Timothy O. Laumann",
+      "Sandra W. Curtiss",
+      "David C. Van Essen"
+    ],
+    "year": 2011,
+    "journal": "Frontiers in Neuroinformatics",
+    "doi_or_url": "https://doi.org/10.3389/fninf.2011.00004",
+    "citation_count": 765,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2151582777",
+    "title": "A Bayesian account of 'hysteria'",
+    "authors": [
+      "Mark J. Edwards",
+      "Rick A. Adams",
+      "Harriet R. Brown",
+      "Isabel Pare\u00e9s",
+      "Karl Friston"
+    ],
+    "year": 2012,
+    "journal": "Brain",
+    "doi_or_url": "https://doi.org/10.1093/brain/aws129",
+    "citation_count": 757,
+    "is_high_impact": true,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W4291015094",
+    "title": "Induced \u03b3-Band Activity during the Delay of a Visual Short-Term Memory Task in Humans",
+    "authors": [
+      "Catherine Tallon\u2010Baudry",
+      "Olivier Bertrand",
+      "F. Peronnet",
+      "J. Pernier"
+    ],
+    "year": 1998,
+    "journal": "Journal of Neuroscience",
+    "doi_or_url": "https://doi.org/10.1523/jneurosci.18-11-04244.1998",
+    "citation_count": 742,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W3156313549",
+    "title": "Classification of Skin Disease Using Deep Learning Neural Networks with MobileNet V2 and LSTM",
+    "authors": [
+      "Parvathaneni Naga Srinivasu",
+      "Jalluri Gnana SivaSai",
+      "Muhammad Fazal Ijaz",
+      "Akash Kumar Bhoi",
+      "Wonjoon Kim",
+      "James Jin Kang"
+    ],
+    "year": 2021,
+    "journal": "Sensors",
+    "doi_or_url": "https://doi.org/10.3390/s21082852",
+    "citation_count": 709,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2952062626",
+    "title": "CoSMoMVPA: Multi-Modal Multivariate Pattern Analysis of Neuroimaging Data in Matlab/GNU Octave",
+    "authors": [
+      "Nikolaas N. Oosterhof",
+      "Andrew C. Connolly",
+      "James V. Haxby"
+    ],
+    "year": 2016,
+    "journal": "Frontiers in Neuroinformatics",
+    "doi_or_url": "https://doi.org/10.3389/fninf.2016.00027",
+    "citation_count": 707,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2029130465",
+    "title": "Speech Rhythms and Multiplexed Oscillatory Sensory Coding in the Human Brain",
+    "authors": [
+      "Joachim Gro\u00df",
+      "Nienke Hoogenboom",
+      "Gregor Thut",
+      "Philippe G. Schyns",
+      "Stefano Panzeri",
+      "Pascal Belin",
+      "Simon Garrod"
+    ],
+    "year": 2013,
+    "journal": "PLoS Biology",
+    "doi_or_url": "https://doi.org/10.1371/journal.pbio.1001752",
+    "citation_count": 697,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W4292289324",
+    "title": "Human-in-the-loop machine learning: a state of the art",
+    "authors": [
+      "Eduardo Mosqueira-Rey",
+      "Elena Hern\u00e1ndez-Pereira",
+      "David Alonso-R\u00edos",
+      "Jos\u00e9 Bobes-Bascar\u00e1n",
+      "\u00c1ngel Fern\u00e1ndez-Leal"
+    ],
+    "year": 2022,
+    "journal": "Artificial Intelligence Review",
+    "doi_or_url": "https://doi.org/10.1007/s10462-022-10246-w",
+    "citation_count": 697,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W1966223858",
+    "title": "European clinical guidelines for hyperkinetic disorder ? first upgrade",
+    "authors": [
+      "Eric Taylor",
+      "M. D\ufffdpfner",
+      "Joseph A. Sergeant",
+      "Philip Asherson",
+      "Tobias Banaschewski",
+      "J. Buitelaar",
+      "David Coghill",
+      "Marina Danckaerts",
+      "A. Rothenberger",
+      "Edmund Sonuga\u2010Barke",
+      "H.\u2010C. Steinhausen",
+      "Alessandro Zuddas"
+    ],
+    "year": 2004,
+    "journal": "European Child & Adolescent Psychiatry",
+    "doi_or_url": "https://doi.org/10.1007/s00787-004-1002-x",
+    "citation_count": 687,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2157501632",
+    "title": "Phase Synchrony among Neuronal Oscillations in the Human Cortex",
+    "authors": [
+      "J. Matias Palva",
+      "Satu Palva",
+      "Kai Kaila"
+    ],
+    "year": 2005,
+    "journal": "Journal of Neuroscience",
+    "doi_or_url": "https://doi.org/10.1523/jneurosci.4250-04.2005",
+    "citation_count": 675,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2160967456",
+    "title": "Functional connectivity in the human language system: a cortico-cortical evoked potential study",
+    "authors": [
+      "Riki Matsumoto",
+      "Dileep Nair",
+      "Eric LaPresto",
+      "Imad Najm",
+      "William Bingaman",
+      "Hiroshi Shibasaki",
+      "Hans O. L\u00fcders"
+    ],
+    "year": 2004,
+    "journal": "Brain",
+    "doi_or_url": "https://doi.org/10.1093/brain/awh246",
+    "citation_count": 674,
+    "is_high_impact": true,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W1990928820",
+    "title": "Analysis and visualization of single\u2010trial event\u2010related potentials",
+    "authors": [
+      "Tzyy\u2010Ping Jung",
+      "Scott Makeig",
+      "Marissa Westerfield",
+      "Jeanne Townsend",
+      "Eric Courchesne",
+      "Terrence J. Sejnowski"
+    ],
+    "year": 2001,
+    "journal": "Human Brain Mapping",
+    "doi_or_url": "https://doi.org/10.1002/hbm.1050",
+    "citation_count": 665,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2033613103",
+    "title": "Free-energy and the brain",
+    "authors": [
+      "Karl Friston",
+      "Klaas \u0395. Stephan"
+    ],
+    "year": 2007,
+    "journal": "Synthese",
+    "doi_or_url": "https://doi.org/10.1007/s11229-007-9237-y",
+    "citation_count": 659,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2603968080",
+    "title": "Dynamic hidden states underlying working-memory-guided behavior",
+    "authors": [
+      "Michael J. Wolff",
+      "Janina Jochim",
+      "Elkan G. Aky\u00fcrek",
+      "Mark G. Stokes"
+    ],
+    "year": 2017,
+    "journal": "Nature Neuroscience",
+    "doi_or_url": "https://doi.org/10.1038/nn.4546",
+    "citation_count": 659,
+    "is_high_impact": true,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W1984383922",
+    "title": "Prediction, cognition and the brain",
+    "authors": [
+      "Andreja Bubi\u0107"
+    ],
+    "year": 2010,
+    "journal": "Frontiers in Human Neuroscience",
+    "doi_or_url": "https://doi.org/10.3389/fnhum.2010.00025",
+    "citation_count": 653,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2020055733",
+    "title": "Global Connectivity of Prefrontal Cortex Predicts Cognitive Control and Intelligence",
+    "authors": [
+      "Michael W. Cole",
+      "Tal Yarkoni",
+      "Grega Repov\u0161",
+      "Alan Anticevic",
+      "Todd S. Braver"
+    ],
+    "year": 2012,
+    "journal": "Journal of Neuroscience",
+    "doi_or_url": "https://doi.org/10.1523/jneurosci.0536-12.2012",
+    "citation_count": 643,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2068117910",
+    "title": "EEGLAB, SIFT, NFT, BCILAB, and ERICA: New Tools for Advanced EEG Processing",
+    "authors": [
+      "Arnaud Delorme",
+      "Tim Mullen",
+      "Christian Kothe",
+      "Zeynep Akalin Acar",
+      "Nima Bigdely-Shamlo",
+      "Andrey Vankov",
+      "Scott Makeig"
+    ],
+    "year": 2011,
+    "journal": "Computational Intelligence and Neuroscience",
+    "doi_or_url": "https://doi.org/10.1155/2011/130714",
+    "citation_count": 643,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W4393353064",
+    "title": "The Role of AI in Hospitals and Clinics: Transforming Healthcare in the 21st Century",
+    "authors": [
+      "Shiva Maleki Varnosfaderani",
+      "Mohamad Forouzanfar"
+    ],
+    "year": 2024,
+    "journal": "Bioengineering",
+    "doi_or_url": "https://doi.org/10.3390/bioengineering11040337",
+    "citation_count": 638,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W3155494946",
+    "title": "Advances in healthcare wearable devices",
+    "authors": [
+      "Sheikh Muhammad Asher Iqbal",
+      "Imad Mahgoub",
+      "E Du",
+      "Mary Ann Leavitt",
+      "Waseem Asghar"
+    ],
+    "year": 2021,
+    "journal": "npj Flexible Electronics",
+    "doi_or_url": "https://doi.org/10.1038/s41528-021-00107-x",
+    "citation_count": 625,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2057504626",
+    "title": "Graph-based network analysis of resting-state functional MRI",
+    "authors": [
+      "Jinhui Wang"
+    ],
+    "year": 2010,
+    "journal": "Frontiers in Systems Neuroscience",
+    "doi_or_url": "https://doi.org/10.3389/fnsys.2010.00016",
+    "citation_count": 623,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2028985479",
+    "title": "EEG and MEG Data Analysis in SPM8",
+    "authors": [
+      "Vladimir Litvak",
+      "J\u00e9r\u00e9mie Mattout",
+      "Stefan J. Kiebel",
+      "Christophe Phillips",
+      "Richard N. Henson",
+      "James M. Kilner",
+      "Gareth R. Barnes",
+      "Robert Oostenveld",
+      "Jean Daunizeau",
+      "Guillaume Flandin",
+      "W.D. Penny",
+      "Karl Friston"
+    ],
+    "year": 2011,
+    "journal": "Computational Intelligence and Neuroscience",
+    "doi_or_url": "https://doi.org/10.1155/2011/852961",
+    "citation_count": 605,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2124906793",
+    "title": "Imaging Response Inhibition in a Stop-Signal Task: Neural Correlates Independent of Signal Monitoring and Post-Response Processing",
+    "authors": [
+      "Chiang\u2010Shan R. Li",
+      "Cong Huang",
+      "R. Todd Constable",
+      "Rajita Sinha"
+    ],
+    "year": 2006,
+    "journal": "Journal of Neuroscience",
+    "doi_or_url": "https://doi.org/10.1523/jneurosci.3741-05.2006",
+    "citation_count": 604,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W1604740558",
+    "title": "Interoception, contemplative practice, and health",
+    "authors": [
+      "Norman A. S. Farb",
+      "Jennifer Daubenmier",
+      "Cynthia Price",
+      "Tim Gard",
+      "Catherine E. Kerr",
+      "Barnaby D. Dunn",
+      "Anne Klein",
+      "Martin P. Paulus",
+      "Wolf Mehling"
+    ],
+    "year": 2015,
+    "journal": "Frontiers in Psychology",
+    "doi_or_url": "https://doi.org/10.3389/fpsyg.2015.00763",
+    "citation_count": 602,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W3082563867",
+    "title": "Circadian control of brain glymphatic and lymphatic fluid flow",
+    "authors": [
+      "Lauren M. Hablitz",
+      "Virginia Pl\u00e1",
+      "Michael Giannetto",
+      "Hanna S. Vinitsky",
+      "Frederik Filip St\u00e6ger",
+      "Tanner Metcalfe",
+      "Rebecca Nguyen",
+      "Abdellatif Benrais",
+      "Maiken Nedergaard"
+    ],
+    "year": 2020,
+    "journal": "Nature Communications",
+    "doi_or_url": "https://doi.org/10.1038/s41467-020-18115-2",
+    "citation_count": 595,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2044971011",
+    "title": "Entrainment of Perceptually Relevant Brain Oscillations by Non-Invasive Rhythmic Stimulation of the Human Brain",
+    "authors": [
+      "Gregor Thut",
+      "Philippe G. Schyns",
+      "Joachim Gro\u00df"
+    ],
+    "year": 2011,
+    "journal": "Frontiers in Psychology",
+    "doi_or_url": "https://doi.org/10.3389/fpsyg.2011.00170",
+    "citation_count": 592,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W3201870057",
+    "title": "Training Spiking Neural Networks Using Lessons From Deep Learning",
+    "authors": [
+      "Jason K. Eshraghian",
+      "Max Ward",
+      "Emre Neftci",
+      "Xinxin Wang",
+      "Gregor Lenz",
+      "Girish Dwivedi",
+      "Mohammed Bennamoun",
+      "Doo Seok Jeong",
+      "Wei L\u00fc"
+    ],
+    "year": 2023,
+    "journal": "Proceedings of the IEEE",
+    "doi_or_url": "https://doi.org/10.1109/jproc.2023.3308088",
+    "citation_count": 590,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W3091468319",
+    "title": "COVID-19 Artificial Intelligence Diagnosis Using Only Cough Recordings",
+    "authors": [
+      "Jordi Laguarta",
+      "Ferran Hueto",
+      "Brian Subirana"
+    ],
+    "year": 2020,
+    "journal": "IEEE Open Journal of Engineering in Medicine and Biology",
+    "doi_or_url": "https://doi.org/10.1109/ojemb.2020.3026928",
+    "citation_count": 589,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2140398789",
+    "title": "Low-Intensity Electrical Stimulation Affects Network Dynamics by Modulating Population Rate and Spike Timing",
+    "authors": [
+      "Davide Reato",
+      "Asif Rahman",
+      "Marom Bikson",
+      "Lucas C. Parra"
+    ],
+    "year": 2010,
+    "journal": "Journal of Neuroscience",
+    "doi_or_url": "https://doi.org/10.1523/jneurosci.2059-10.2010",
+    "citation_count": 589,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W1990338088",
+    "title": "Prefrontal Transcranial Direct Current Stimulation Changes Connectivity of Resting-State Networks during fMRI",
+    "authors": [
+      "Daniel Keeser",
+      "Thomas Meindl",
+      "Julie Bor",
+      "Ulrich Palm",
+      "Oliver Pogarell",
+      "Christoph Mulert",
+      "J\u00e9r\u00f4me Brunelin",
+      "Hans\u2010J\u00fcrgen M\u00f6ller",
+      "Maximilian F. Reiser",
+      "Frank Padberg"
+    ],
+    "year": 2011,
+    "journal": "Journal of Neuroscience",
+    "doi_or_url": "https://doi.org/10.1523/jneurosci.0542-11.2011",
+    "citation_count": 586,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W1988235609",
+    "title": "Superior Parietal Cortex Is Critical for the Manipulation of Information in Working Memory",
+    "authors": [
+      "Michael Koenigs",
+      "Aron K. Barbey",
+      "Bradley R. Postle",
+      "Jordan Grafman"
+    ],
+    "year": 2009,
+    "journal": "Journal of Neuroscience",
+    "doi_or_url": "https://doi.org/10.1523/jneurosci.3706-09.2009",
+    "citation_count": 585,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W3139657805",
+    "title": "Advancing Neuromorphic Computing With Loihi: A Survey of Results and Outlook",
+    "authors": [
+      "Mike Davies",
+      "Andreas Wild",
+      "Garrick Orchard",
+      "Yulia Sandamirskaya",
+      "G. A. Fonseca Guerra",
+      "Prasad Joshi",
+      "Philipp Plank",
+      "Sumedh R. Risbud"
+    ],
+    "year": 2021,
+    "journal": "Proceedings of the IEEE",
+    "doi_or_url": "https://doi.org/10.1109/jproc.2021.3067593",
+    "citation_count": 575,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2081338054",
+    "title": "Transcranial alternating current stimulation (tACS)",
+    "authors": [
+      "Andrea Antal",
+      "Walter Paulus"
+    ],
+    "year": 2013,
+    "journal": "Frontiers in Human Neuroscience",
+    "doi_or_url": "https://doi.org/10.3389/fnhum.2013.00317",
+    "citation_count": 571,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2999889141",
+    "title": "Dopamine and glutamate in schizophrenia: biology, symptoms and treatment",
+    "authors": [
+      "Robert A. McCutcheon",
+      "John H. Krystal",
+      "Oliver Howes"
+    ],
+    "year": 2020,
+    "journal": "World Psychiatry",
+    "doi_or_url": "https://doi.org/10.1002/wps.20693",
+    "citation_count": 569,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2096707321",
+    "title": "A randomized, double-blind clinical trial on the efficacy of cortical direct current stimulation for the treatment of major depression",
+    "authors": [
+      "Paulo S. Boggio",
+      "Sergio P. Rigonatti",
+      "Rafael Bernardon Ribeiro",
+      "Martin Luiz Myczkowski",
+      "Michael A. Nitsche",
+      "\u00c1lvaro Pascual\u2010Leone",
+      "Felipe Fregni"
+    ],
+    "year": 2007,
+    "journal": "The International Journal of Neuropsychopharmacology",
+    "doi_or_url": "https://doi.org/10.1017/s1461145707007833",
+    "citation_count": 568,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2044984028",
+    "title": "Causal interactions between fronto-parietal central executive and default-mode networks in humans",
+    "authors": [
+      "Ashley C. Chen",
+      "Desmond J. Oathes",
+      "Catie Chang",
+      "Travis Bradley",
+      "Zhengwei Zhou",
+      "Leanne M. Williams",
+      "Gary H. Glover",
+      "Karl Deisseroth",
+      "Amit Etkin"
+    ],
+    "year": 2013,
+    "journal": "Proceedings of the National Academy of Sciences",
+    "doi_or_url": "https://doi.org/10.1073/pnas.1311772110",
+    "citation_count": 560,
+    "is_high_impact": true,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W1977683420",
+    "title": "A Neuronal Model of Predictive Coding Accounting for the Mismatch Negativity",
+    "authors": [
+      "Catherine Wacongne",
+      "Jean\u2010Pierre Changeux",
+      "Stanislas Dehaene"
+    ],
+    "year": 2012,
+    "journal": "Journal of Neuroscience",
+    "doi_or_url": "https://doi.org/10.1523/jneurosci.5003-11.2012",
+    "citation_count": 558,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2075496760",
+    "title": "Diffusion Tensor Tractography Reveals Abnormal Topological Organization in Structural Cortical Networks in Alzheimer's Disease",
+    "authors": [
+      "Chun-Yi Zac Lo",
+      "Pei-Ning Wang",
+      "Kun-Hsien Chou",
+      "Jinhui Wang",
+      "Yong He",
+      "Ching\u2010Po Lin"
+    ],
+    "year": 2010,
+    "journal": "Journal of Neuroscience",
+    "doi_or_url": "https://doi.org/10.1523/jneurosci.4136-10.2010",
+    "citation_count": 552,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2145749918",
+    "title": "The Virtual Brain: a simulator of primate brain network dynamics",
+    "authors": [
+      "Paula Sanz\u2010Leon",
+      "S. A. Knock",
+      "Marmaduke Woodman",
+      "Lia Domide",
+      "Jochen Mersmann",
+      "Anthony R. McIntosh",
+      "Viktor Jirsa"
+    ],
+    "year": 2013,
+    "journal": "Frontiers in Neuroinformatics",
+    "doi_or_url": "https://doi.org/10.3389/fninf.2013.00010",
+    "citation_count": 548,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W1932385070",
+    "title": "Pupillometry and P3 index the locus coeruleus\u2013noradrenergic arousal function in humans",
+    "authors": [
+      "Peter R. Murphy",
+      "Ian H. Robertson",
+      "Joshua H. Balsters",
+      "Redmond G O\u2019Connell"
+    ],
+    "year": 2011,
+    "journal": "Psychophysiology",
+    "doi_or_url": "https://doi.org/10.1111/j.1469-8986.2011.01226.x",
+    "citation_count": 545,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W1848122840",
+    "title": "Joint Consensus Statement of the American Academy of Sleep Medicine and Sleep Research Society on the Recommended Amount of Sleep for a Healthy Adult: Methodology and Discussion",
+    "authors": [
+      "Nathaniel F. Watson",
+      "M. Safwan Badr",
+      "Gregory Belenky",
+      "Donald L. Bliwise",
+      "Orfeu M. Buxton",
+      "Daniel J. Buysse",
+      "David F. Dinges",
+      "James E. Gangwisch",
+      "Michael A. Grandner",
+      "Clete A. Kushida",
+      "Raman K. Malhotra",
+      "Jennifer L. Martin"
+    ],
+    "year": 2015,
+    "journal": "Journal of Clinical Sleep Medicine",
+    "doi_or_url": "https://doi.org/10.5664/jcsm.4950",
+    "citation_count": 544,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2035978932",
+    "title": "Modulation of Gamma and Alpha Activity during a Working Memory Task Engaging the Dorsal or Ventral Stream",
+    "authors": [
+      "Daniel Jokisch",
+      "Ole Jensen"
+    ],
+    "year": 2007,
+    "journal": "Journal of Neuroscience",
+    "doi_or_url": "https://doi.org/10.1523/jneurosci.5399-06.2007",
+    "citation_count": 529,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2792847701",
+    "title": "The Harvard Automated Processing Pipeline for Electroencephalography (HAPPE): Standardized Processing Software for Developmental and High-Artifact Data",
+    "authors": [
+      "Laurel J. Gabard\u2010Durnam",
+      "Adriana S. M\u00e9ndez Leal",
+      "Carol L. Wilkinson",
+      "April R. Levin"
+    ],
+    "year": 2018,
+    "journal": "Frontiers in Neuroscience",
+    "doi_or_url": "https://doi.org/10.3389/fnins.2018.00097",
+    "citation_count": 524,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2504479060",
+    "title": "Neural mechanisms of transient neocortical beta rhythms: Converging evidence from humans, computational modeling, monkeys, and mice",
+    "authors": [
+      "Maxwell A. Sherman",
+      "Shane Lee",
+      "Robert Law",
+      "Saskia Haegens",
+      "Catherine A. Thorn",
+      "Matti H\u00e4m\u00e4l\u00e4inen",
+      "Christopher I. Moore",
+      "Stephanie R. Jones"
+    ],
+    "year": 2016,
+    "journal": "Proceedings of the National Academy of Sciences",
+    "doi_or_url": "https://doi.org/10.1073/pnas.1604135113",
+    "citation_count": 517,
+    "is_high_impact": true,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2110930020",
+    "title": "Functional Imaging of Working Memory after 24 Hr of Total Sleep Deprivation",
+    "authors": [
+      "Michael W.L. Chee",
+      "Wei Chieh Choo"
+    ],
+    "year": 2004,
+    "journal": "Journal of Neuroscience",
+    "doi_or_url": "https://doi.org/10.1523/jneurosci.0007-04.2004",
+    "citation_count": 514,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2122286595",
+    "title": "Localizing human visual gamma-band activity in frequency, time and space",
+    "authors": [
+      "Nienke Hoogenboom",
+      "Jan\u2010Mathijs Schoffelen",
+      "Robert Oostenveld",
+      "Laura M. Parkes",
+      "Pascal Fries"
+    ],
+    "year": 2005,
+    "journal": "NeuroImage",
+    "doi_or_url": "https://doi.org/10.1016/j.neuroimage.2005.08.043",
+    "citation_count": 507,
+    "is_high_impact": true,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2126727914",
+    "title": "Vividness of Visual Imagery and Incidental Recall of Verbal Cues, When Phenomenological Availability Reflects Long-Term Memory Accessibility",
+    "authors": [
+      "Amedeo D\u2019Angiulli",
+      "Matthew Runge",
+      "Andrew Faulkner",
+      "Jila Zakizadeh",
+      "Aldrich Chan",
+      "Selvana Morcos"
+    ],
+    "year": 2013,
+    "journal": "Frontiers in Psychology",
+    "doi_or_url": "https://doi.org/10.3389/fpsyg.2013.00001",
+    "citation_count": 506,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2769021531",
+    "title": "Transcranial Direct Current Stimulation (tDCS): A Beginner's Guide for Design and Implementation",
+    "authors": [
+      "Hayley Thair",
+      "Amy L. Holloway",
+      "Roger Newport",
+      "Alastair D. Smith"
+    ],
+    "year": 2017,
+    "journal": "Frontiers in Neuroscience",
+    "doi_or_url": "https://doi.org/10.3389/fnins.2017.00641",
+    "citation_count": 501,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2053999696",
+    "title": "The creative brain: Investigation of brain activity during creative problem solving by means of EEG and FMRI",
+    "authors": [
+      "Andr\u00e9as Fink",
+      "Roland H. Grabner",
+      "Mathias Benedek",
+      "Gernot Reishofer",
+      "Verena Hauswirth",
+      "Maria Fally",
+      "Christa Neuper",
+      "Franz Ebner",
+      "Aljoscha C. Neubauer"
+    ],
+    "year": 2008,
+    "journal": "Human Brain Mapping",
+    "doi_or_url": "https://doi.org/10.1002/hbm.20538",
+    "citation_count": 498,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W1997319821",
+    "title": "The Decoding Toolbox (TDT): a versatile software package for multivariate analyses of functional imaging data",
+    "authors": [
+      "Martin N. Hebart",
+      "Kai G\u00c3\u00b6rgen",
+      "John\u00ad\u2013Dylan Haynes"
+    ],
+    "year": 2015,
+    "journal": "Frontiers in Neuroinformatics",
+    "doi_or_url": "https://doi.org/10.3389/fninf.2014.00088",
+    "citation_count": 495,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2001532157",
+    "title": "The Intense World Theory \u2013 A Unifying Theory of the Neurobiology of Autism",
+    "authors": [
+      "Henry Markram",
+      "Henry Markram"
+    ],
+    "year": 2010,
+    "journal": "Frontiers in Human Neuroscience",
+    "doi_or_url": "https://doi.org/10.3389/fnhum.2010.00224",
+    "citation_count": 495,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2883445328",
+    "title": "40 years of cognitive architectures: core cognitive abilities and practical applications",
+    "authors": [
+      "Iuliia Kotseruba",
+      "John K. Tsotsos"
+    ],
+    "year": 2018,
+    "journal": "Artificial Intelligence Review",
+    "doi_or_url": "https://doi.org/10.1007/s10462-018-9646-y",
+    "citation_count": 495,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2095401753",
+    "title": "Intracranial EEG Reveals a Time- and Frequency-Specific Role for the Right Inferior Frontal Gyrus and Primary Motor Cortex in Stopping Initiated Responses",
+    "authors": [
+      "Nicole C. Swann",
+      "Nitin Tandon",
+      "Ryan T. Canolty",
+      "Timothy M. Ellmore",
+      "Linda K. McEvoy",
+      "Stephen Dreyer",
+      "Michael A. Disano",
+      "Adam R. Aron"
+    ],
+    "year": 2009,
+    "journal": "Journal of Neuroscience",
+    "doi_or_url": "https://doi.org/10.1523/jneurosci.3359-09.2009",
+    "citation_count": 490,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W1967272295",
+    "title": "Being Together in Time: Musical Experience and the Mirror Neuron System",
+    "authors": [
+      "Katie Overy",
+      "Istvan Molnar-Szakacs"
+    ],
+    "year": 2009,
+    "journal": "Music Perception An Interdisciplinary Journal",
+    "doi_or_url": "https://doi.org/10.1525/mp.2009.26.5.489",
+    "citation_count": 490,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2148334755",
+    "title": "Distinct neural signatures detected for ADHD subtypes after controlling for micro-movements in resting state functional connectivity MRI data",
+    "authors": [
+      "Damien A. Fair",
+      "Joel T. Nigg",
+      "Swathi Iyer",
+      "Deepti R. Bathula",
+      "Kathryn L. Mills",
+      "Nico U.F. Dosenbach",
+      "Bradley L. Schlaggar",
+      "Maarten Mennes",
+      "David Gutman",
+      "Saroja Bangaru",
+      "Jan K. Buitelaar",
+      "Daniel P. Dickstein"
+    ],
+    "year": 2013,
+    "journal": "Frontiers in Systems Neuroscience",
+    "doi_or_url": "https://doi.org/10.3389/fnsys.2012.00080",
+    "citation_count": 482,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2621012322",
+    "title": "The Effect of Diaphragmatic Breathing on Attention, Negative Affect and Stress in Healthy Adults",
+    "authors": [
+      "Xiao Ma",
+      "Zi-Qi Yue",
+      "Zhu-Qing Gong",
+      "Hong Zhang",
+      "Nai-Yue Duan",
+      "Yu-Tong Shi",
+      "Gao-Xia Wei",
+      "You-Fa Li"
+    ],
+    "year": 2017,
+    "journal": "Frontiers in Psychology",
+    "doi_or_url": "https://doi.org/10.3389/fpsyg.2017.00874",
+    "citation_count": 480,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W4220863497",
+    "title": "Quo vadis artificial intelligence?",
+    "authors": [
+      "Yuchen Jiang",
+      "Xiang Li",
+      "Hao Luo",
+      "Shen Yin",
+      "Okyay Kaynak"
+    ],
+    "year": 2022,
+    "journal": "Discover Artificial Intelligence",
+    "doi_or_url": "https://doi.org/10.1007/s44163-022-00022-8",
+    "citation_count": 477,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W1996379253",
+    "title": "Small\u2010world properties of nonlinear brain activity in schizophrenia",
+    "authors": [
+      "Mikail Rubinov",
+      "S. A. Knock",
+      "Cornelis J. Stam",
+      "Sifis Micheloyannis",
+      "Anthony Harris",
+      "Leanne M. Williams",
+      "Michael Breakspear"
+    ],
+    "year": 2007,
+    "journal": "Human Brain Mapping",
+    "doi_or_url": "https://doi.org/10.1002/hbm.20517",
+    "citation_count": 472,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W3154435685",
+    "title": "On Interpretability of Artificial Neural Networks: A Survey",
+    "authors": [
+      "Fenglei Fan",
+      "Jinjun Xiong",
+      "Mengzhou Li",
+      "Ge Wang"
+    ],
+    "year": 2021,
+    "journal": "IEEE Transactions on Radiation and Plasma Medical Sciences",
+    "doi_or_url": "https://doi.org/10.1109/trpms.2021.3066428",
+    "citation_count": 471,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W1966476842",
+    "title": "EEG alpha synchronization and functional coupling during top\u2010down processing in a working memory task",
+    "authors": [
+      "Paul Sauseng",
+      "Wolfgang Klimesch",
+      "Michael Doppelmayr",
+      "Thomas Pecherstorfer",
+      "Roman Freunberger",
+      "Simon Hanslmayr"
+    ],
+    "year": 2005,
+    "journal": "Human Brain Mapping",
+    "doi_or_url": "https://doi.org/10.1002/hbm.20150",
+    "citation_count": 468,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2161627797",
+    "title": "Laminar selectivity of the cholinergic suppression of synaptic transmission in rat hippocampal region CA1: computational modeling and brain slice physiology",
+    "authors": [
+      "Michael E. Hasselmo",
+      "Eric Schnell"
+    ],
+    "year": 1994,
+    "journal": "Journal of Neuroscience",
+    "doi_or_url": "https://doi.org/10.1523/jneurosci.14-06-03898.1994",
+    "citation_count": 468,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2045823207",
+    "title": "Neuronal Mechanisms and Attentional Modulation of Corticothalamic Alpha Oscillations",
+    "authors": [
+      "Anil Bollimunta",
+      "Jue Mo",
+      "Charles E. Schroeder",
+      "Mingzhou Ding"
+    ],
+    "year": 2011,
+    "journal": "Journal of Neuroscience",
+    "doi_or_url": "https://doi.org/10.1523/jneurosci.5580-10.2011",
+    "citation_count": 465,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W4319986951",
+    "title": "Metaverse for Healthcare: A Survey on Potential Applications, Challenges and Future Directions",
+    "authors": [
+      "Rajeswari Chengoden",
+      "Nancy Victor",
+      "Thien Huynh\u2010The",
+      "Gokul Yenduri",
+      "Rutvij H. Jhaveri",
+      "Mamoun Alazab",
+      "Sweta Bhattacharya",
+      "Pawan Hegde",
+      "Praveen Kumar Reddy Maddikunta",
+      "Thippa Reddy Gadekallu"
+    ],
+    "year": 2023,
+    "journal": "IEEE Access",
+    "doi_or_url": "https://doi.org/10.1109/access.2023.3241628",
+    "citation_count": 464,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W1970445701",
+    "title": "Free choice activates a decision circuit between frontal and parietal cortex",
+    "authors": [
+      "Bijan Pesaran",
+      "Matthew J. Nelson",
+      "Richard A. Andersen"
+    ],
+    "year": 2008,
+    "journal": "Nature",
+    "doi_or_url": "https://doi.org/10.1038/nature06849",
+    "citation_count": 457,
+    "is_high_impact": true,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2145577892",
+    "title": "Long-Acting Intranasal Insulin Detemir Improves Cognition for Adults with Mild Cognitive Impairment or Early-Stage Alzheimer's Disease Dementia",
+    "authors": [
+      "Amy Claxton",
+      "Laura D. Baker",
+      "Angela J. Hanson",
+      "Emily H. Trittschuh",
+      "Brenna Cholerton",
+      "A. Morgan",
+      "Maureen Callaghan",
+      "Matthew Arbuckle",
+      "Christian Behl",
+      "Suzanne Craft"
+    ],
+    "year": 2015,
+    "journal": "Journal of Alzheimer s Disease",
+    "doi_or_url": "https://doi.org/10.3233/jad-141791",
+    "citation_count": 455,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2094510930",
+    "title": "Non-Stationarity in the \u201cResting Brain\u2019s\u201d Modular Architecture",
+    "authors": [
+      "David T. Jones",
+      "Prashanthi Vemuri",
+      "Matthew C. Murphy",
+      "Jeffrey L. Gunter",
+      "Matthew L. Senjem",
+      "Mary M. Machulda",
+      "Scott A. Przybelski",
+      "Brian E. Gregg",
+      "Kejal Kantarci",
+      "David S. Knopman",
+      "Bradley F. Boeve",
+      "Ronald C. Petersen"
+    ],
+    "year": 2012,
+    "journal": "PLoS ONE",
+    "doi_or_url": "https://doi.org/10.1371/journal.pone.0039731",
+    "citation_count": 454,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W4250910084",
+    "title": "A brief introduction to the use of event-related potentials in studies of perception and attention",
+    "authors": [
+      "Geoffrey F. Woodman"
+    ],
+    "year": 2010,
+    "journal": "Attention Perception & Psychophysics",
+    "doi_or_url": "https://doi.org/10.3758/bf03196680",
+    "citation_count": 452,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W3087969957",
+    "title": "A Deep Learning Model Based on Concatenation Approach for the Diagnosis of Brain Tumor",
+    "authors": [
+      "Neelum Noreen",
+      "Sellappan Palaniappan",
+      "Abdul Qayyum",
+      "Iftikhar Ahmad",
+      "Muhammad Imran",
+      "Muhammad Shoaib"
+    ],
+    "year": 2020,
+    "journal": "IEEE Access",
+    "doi_or_url": "https://doi.org/10.1109/access.2020.2978629",
+    "citation_count": 451,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W1997953898",
+    "title": "The Organization of Dorsal Frontal Cortex in Humans and Macaques",
+    "authors": [
+      "J\u00e9r\u00f4me Sallet",
+      "Rogier B. Mars",
+      "MaryAnn P. Noonan",
+      "F.-X. Neubert",
+      "Sa\u00e2d Jbabdi",
+      "Jill X. O\u2019Reilly",
+      "Nicola Filippini",
+      "Adam G. Thomas",
+      "Matthew F. S. Rushworth"
+    ],
+    "year": 2013,
+    "journal": "Journal of Neuroscience",
+    "doi_or_url": "https://doi.org/10.1523/jneurosci.5108-12.2013",
+    "citation_count": 445,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2121755167",
+    "title": "Potential self-regulatory mechanisms of yoga for psychological health",
+    "authors": [
+      "Tim Gard",
+      "Jessica J. Noggle",
+      "Crystal L. Park",
+      "David R. Vago",
+      "Angela L. Wilson"
+    ],
+    "year": 2014,
+    "journal": "Frontiers in Human Neuroscience",
+    "doi_or_url": "https://doi.org/10.3389/fnhum.2014.00770",
+    "citation_count": 444,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2163982115",
+    "title": "A history of spike-timing-dependent plasticity",
+    "authors": [
+      "Henry Markram"
+    ],
+    "year": 2011,
+    "journal": "Frontiers in Synaptic Neuroscience",
+    "doi_or_url": "https://doi.org/10.3389/fnsyn.2011.00004",
+    "citation_count": 441,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2917347002",
+    "title": "Digital biomarkers for Alzheimer\u2019s disease: the mobile/wearable devices opportunity",
+    "authors": [
+      "Lampros Kourtis",
+      "Oliver B. Regele",
+      "Justin M. Wright",
+      "Graham B. Jones"
+    ],
+    "year": 2019,
+    "journal": "npj Digital Medicine",
+    "doi_or_url": "https://doi.org/10.1038/s41746-019-0084-2",
+    "citation_count": 439,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W1999174202",
+    "title": "Cognitive Effort Drives Workspace Configuration of Human Brain Functional Networks",
+    "authors": [
+      "Manfred G. Kitzbichler",
+      "Richard N. Henson",
+      "Marie L. Smith",
+      "Pradeep J. Nathan",
+      "Edward T. Bullmore"
+    ],
+    "year": 2011,
+    "journal": "Journal of Neuroscience",
+    "doi_or_url": "https://doi.org/10.1523/jneurosci.0440-11.2011",
+    "citation_count": 439,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2783416238",
+    "title": "Safe and sensible preprocessing and baseline correction of pupil-size data",
+    "authors": [
+      "Sebastiaan Math\u00f4t",
+      "Jasper H. Fabius",
+      "Elle van Heusden",
+      "Stefan Van der Stigchel"
+    ],
+    "year": 2018,
+    "journal": "Behavior Research Methods",
+    "doi_or_url": "https://doi.org/10.3758/s13428-017-1007-2",
+    "citation_count": 437,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2015769425",
+    "title": "Abnormal regional cerebral blood flow in childhood autism",
+    "authors": [
+      "Takashi Ohnishi"
+    ],
+    "year": 2000,
+    "journal": "Brain",
+    "doi_or_url": "https://doi.org/10.1093/brain/123.9.1838",
+    "citation_count": 435,
+    "is_high_impact": true,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2092872141",
+    "title": "Dynamic connectivity states estimated from resting fMRI Identify differences among Schizophrenia, bipolar disorder, and healthy control subjects",
+    "authors": [
+      "Barnaly Rashid",
+      "Eswar Damaraju",
+      "Godfrey D. Pearlson",
+      "Vince D. Calhoun"
+    ],
+    "year": 2014,
+    "journal": "Frontiers in Human Neuroscience",
+    "doi_or_url": "https://doi.org/10.3389/fnhum.2014.00897",
+    "citation_count": 434,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2037506348",
+    "title": "Speech Production as State Feedback Control",
+    "authors": [
+      "John F. Houde",
+      "Srikantan S. Nagarajan"
+    ],
+    "year": 2011,
+    "journal": "Frontiers in Human Neuroscience",
+    "doi_or_url": "https://doi.org/10.3389/fnhum.2011.00082",
+    "citation_count": 432,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2051730554",
+    "title": "MUC (Memory, Unification, Control) and beyond",
+    "authors": [
+      "Peter Hagoort"
+    ],
+    "year": 2013,
+    "journal": "Frontiers in Psychology",
+    "doi_or_url": "https://doi.org/10.3389/fpsyg.2013.00416",
+    "citation_count": 432,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2132611303",
+    "title": "Hippocampal Plasticity across Multiple Days of Exposure to Novel Environments",
+    "authors": [
+      "Loren M. Frank",
+      "Garrett B. Stanley",
+      "Emery N. Brown"
+    ],
+    "year": 2004,
+    "journal": "Journal of Neuroscience",
+    "doi_or_url": "https://doi.org/10.1523/jneurosci.1958-04.2004",
+    "citation_count": 430,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2987342493",
+    "title": "The generation and propagation of the human alpha rhythm",
+    "authors": [
+      "Mila Halgren",
+      "Istv\u00e1n Ulbert",
+      "H\u00e9l\u00e8ne Bastuji",
+      "D\u00e1niel Fab\u00f3",
+      "L\u00f3r\u00e1nd Er\u0151ss",
+      "Marc Rey",
+      "Orrin Devinsky",
+      "Werner Doyle",
+      "Rachel A. Mak-McCully",
+      "Eric Halgren",
+      "L\u00facia Wittner",
+      "Patrick Chauvel"
+    ],
+    "year": 2019,
+    "journal": "Proceedings of the National Academy of Sciences",
+    "doi_or_url": "https://doi.org/10.1073/pnas.1913092116",
+    "citation_count": 430,
+    "is_high_impact": true,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W4391514872",
+    "title": "Autoencoders and their applications in machine learning: a survey",
+    "authors": [
+      "Kamal Berahmand",
+      "Fatemeh Daneshfar",
+      "Elaheh Sadat Salehi",
+      "Yuefeng Li",
+      "Yue Xu"
+    ],
+    "year": 2024,
+    "journal": "Artificial Intelligence Review",
+    "doi_or_url": "https://doi.org/10.1007/s10462-023-10662-6",
+    "citation_count": 418,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  }
+]

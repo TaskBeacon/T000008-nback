@@ -1,0 +1,41 @@
+﻿[
+  {
+    "id": "W2165702601",
+    "title": "Gamma Oscillations Correlate with Working Memory Load in Humans",
+    "year": 2003,
+    "journal": "Cerebral Cortex",
+    "doi": "10.1093/cercor/bhg084",
+    "citation_count": 783,
+    "open_access": true,
+    "used_for": [
+      "nback_working_memory_load_rationale",
+      "probe_phase_design"
+    ]
+  },
+  {
+    "id": "W1966476842",
+    "title": "EEG alpha synchronization and functional coupling during top-down processing in a working memory task",
+    "year": 2005,
+    "journal": "Human Brain Mapping",
+    "doi": "10.1002/hbm.20150",
+    "citation_count": 468,
+    "open_access": true,
+    "used_for": [
+      "eeg_working_memory_measurement",
+      "response_window_and_iti_structure"
+    ]
+  },
+  {
+    "id": "W2035978932",
+    "title": "Modulation of Gamma and Alpha Activity during a Working Memory Task Engaging the Dorsal or Ventral Stream",
+    "year": 2007,
+    "journal": "Journal of Neuroscience",
+    "doi": "10.1523/jneurosci.5399-06.2007",
+    "citation_count": 529,
+    "open_access": true,
+    "used_for": [
+      "working_memory_blockwise_manipulation",
+      "stimulus_timing_and_trigger_alignment"
+    ]
+  }
+]

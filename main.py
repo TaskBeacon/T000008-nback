@@ -116,7 +116,7 @@ def run(options: TaskRunOptions):
             )
 
             match_trials = block.get_trial_data(key="condition", pattern="match", match_type="startswith")
-            acc = sum(t.get("cue_hit", False) for t in match_trials) / len(match_trials) if match_trials else 0
+            acc = sum(t.get("nback_probe_hit", False) for t in match_trials) / len(match_trials) if match_trials else 0
 
             StimUnit("block", win, kb, runtime=trigger_runtime).add_stim(
                 stim_bank.get_and_format(

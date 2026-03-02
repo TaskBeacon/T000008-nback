@@ -4,8 +4,24 @@ All notable development changes for T000008-nback are documented here.
 
 ## [Unreleased]
 
+## [1.1.2] - 2026-03-02
+
+### Added
+- Added full literature contract bundle under `references/`:
+  - `references.yaml`
+  - `references.md`
+  - `parameter_mapping.md`
+  - `stimulus_mapping.md`
+  - `task_logic_audit.md`
+  - curated `selected_papers.json`
+
 ### Changed
-- Refactored `src/run_trial.py` to use `psyflow`'s native `next_trial_id()` and removed legacy internal `_next_trial_id` and `_deadline_s` boilerplate.
+- Refactored `src/run_trial.py` to use `psyflow` native `next_trial_id()` and removed legacy internal `_next_trial_id` and `_deadline_s` boilerplate.
+- Renamed probe-stage runtime unit label from `cue` to `nback_probe` and aligned block accuracy readout key to `nback_probe_hit`.
+- Renamed timing config key `cue_duration` to `probe_duration` across all runtime profiles.
+- Rewrote `config/config.yaml` and `config/config_qa.yaml` in clean UTF-8 (removed mojibake in participant-facing Chinese text).
+- Standardized all config profiles to consistent section structure and key-mapping wording.
+- Updated README flow/timing documentation to match current runtime (`probe_duration`, controller logic section).
 
 ## [1.1.1] - 2026-02-18
 - Refactored responder context phase names in `src/run_trial.py` to task-specific labels (removed generic MID-style phase naming).
