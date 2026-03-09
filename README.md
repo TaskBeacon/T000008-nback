@@ -20,6 +20,8 @@
 This task is a classic N-Back cognitive test. Participants are shown a sequence of digits and must determine if the current digit matches the one presented 'N' trials ago. The task includes two blocks: a 1-Back block and a 2-Back block.
 
 ## 2. Task Flow
+
+![Task flow](./task_flow.png)
 ### Block-Level Flow
 | Step | Description |
 |---|---|
