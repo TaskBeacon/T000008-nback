@@ -1,4 +1,4 @@
-﻿# ============================================================================
+# ============================================================================
 # Base config (human run)
 # - Used by: python main.py
 # - Scope: human experiment only (no qa/sim section in this file)
