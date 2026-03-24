@@ -1,68 +1,78 @@
-# Task Plot Audit
+# Task Plot 审计
 
-- generated_at: 2026-03-10T00:17:30
+- generated_at: 2026-03-23T23:15:43
 - mode: existing
-- task_path: E:\Taskbeacon\T000008-nback
+- task_path: E:\xhmhc\TaskBeacon\benchmark\runs\task_plot_redo\T000008-nback
 
-## 1. Inputs and provenance
+## 1. 输入与来源
 
-- E:\Taskbeacon\T000008-nback\README.md
-- E:\Taskbeacon\T000008-nback\config\config.yaml
-- E:\Taskbeacon\T000008-nback\src\run_trial.py
+- `README.md`: `E:\xhmhc\TaskBeacon\benchmark\runs\task_plot_redo\T000008-nback\README.md`
+- `config.yaml`: `E:\xhmhc\TaskBeacon\benchmark\runs\task_plot_redo\T000008-nback\config\config.yaml`
+- `run_trial.py`: `E:\xhmhc\TaskBeacon\benchmark\runs\task_plot_redo\T000008-nback\src\run_trial.py`
 
-## 2. Evidence extracted from README
+## 2. 从 README 提取的证据
 
-- | Step | Description |
-- |---|---|
-- | 1. Digit Presentation | A digit is presented on the screen for the duration specified by `probe_duration`. The participant can respond during this time. |
-- | 2. Inter-Trial Interval (ITI) | A blank screen is shown for the duration specified by `iti_duration`. |
+- README 的任务流分为块级流程和试次级流程两层。
+- 块级流程说明了 `1-back` 和 `2-back` 的块组织、块间休息以及结束页。
+- 试次级流程只包含两步：数字呈现与 ITI 空屏。
 
-## 3. Evidence extracted from config/source
+## 3. 从 config/source 提取的证据
 
-- match: phase=nback probe response, deadline_expr=settings.probe_duration, response_expr=n/a, stim_expr='stim_digit'
-- match: phase=inter trial interval, deadline_expr=settings.iti_duration, response_expr=n/a, stim_expr='stim_iti'
-- nomatch: phase=nback probe response, deadline_expr=settings.probe_duration, response_expr=n/a, stim_expr='stim_digit'
-- nomatch: phase=inter trial interval, deadline_expr=settings.iti_duration, response_expr=n/a, stim_expr='stim_iti'
+- `match`：`probe_unit = make_unit(unit_label="nback_probe").add_stim(stim_bank.rebuild("stim_digit", text=_digit))`，随后 `set_trial_context(... phase="nback_probe_response", deadline_s=settings.probe_duration, stim_id="stim_digit")`，再用 `capture_response(..., duration=settings.probe_duration, terminate_on_response=True)`；这是 800 ms 的数字呈现与反应窗。
+- `nomatch`：与 `match` 使用同一套阶段顺序和时序，只是正确反应键由条件决定，因此在图中折叠为等价变体。
+- `ITI`：`iti_unit = make_unit(unit_label="iti").add_stim(stim_bank.get("stim_iti"))`，随后 `set_trial_context(... phase="inter_trial_interval", deadline_s=settings.iti_duration, stim_id="stim_iti")`，最后 `iti_unit.show(settings.iti_duration)`；这是 1200 ms 的空屏。
+- `Probe` 的实际运行内容不是配置里的 `*`，而是运行时重建后的数字字符串 `_digit`。
 
-## 4. Mapping to task_plot_spec
+## 3b. 警告
 
-- timeline collection: one representative timeline per unique trial logic
-- phase flow inferred from run_trial set_trial_context order and branch predicates
-- participant-visible show() phases without set_trial_context are inferred where possible and warned
-- duration/response inferred from deadline/capture expressions
-- stimulus examples inferred from stim_id + config stimuli
-- conditions with equivalent phase/timing logic collapsed and annotated as variants
-- root_key: task_plot_spec
-- spec_version: 0.2
+- 无。`run_trial.py` 中这两个参与者可见阶段都带有 `set_trial_context(...)`。
 
-## 5. Style decision and rationale
+## 4. 映射到 task_plot_spec
 
-- Single timeline-collection view selected by policy: one representative condition per unique timeline logic.
+- `root_key`: `task_plot_spec`
+- `spec_version`: `0.2`
+- 采用“一条代表性时间线 + 等价变体注记”的集合式图形。
+- 由于 `match` 与 `nomatch` 的阶段顺序和时序相同，图中保留 `Match` 作为代表性时间线，并把 `Nomatch` 作为等价变体折叠到同一行。
+- `Probe` 的图示从配置占位 `*` 修正为示例数字 `5`，更贴近运行时实际看到的数字刺激。
+- `ITI` 的图示改为不可见占位图元，用来表达空屏，避免渲染成 `[text]` 占位。
 
-## 6. Rendering parameters and constraints
+## 5. 样式决策与理由
 
-- output_file: task_flow.png
-- dpi: 300
-- max_conditions: 4
-- screens_per_timeline: 6
-- screen_overlap_ratio: 0.1
-- screen_slope: 0.08
-- screen_slope_deg: 25.0
-- screen_aspect_ratio: 1.4545454545454546
-- qa_mode: local
-- auto_layout_feedback:
-  - layout pass 1: crop-only; left=0.052, right=0.053, blank=0.185
-- auto_layout_feedback_records:
-  - pass: 1
-    metrics: {'left_ratio': 0.0522, 'right_ratio': 0.0532, 'blank_ratio': 0.1849}
+- 继续使用 timeline collection，因为这是 task-plot 的固定图型。
+- 这个任务没有独立的显性反馈阶段，最有信息量的内容就是试次里的 `Probe` 与 `ITI`。
+- 只保留一条代表性时间线可以避免 `match/nomatch` 的重复展示，同时保留条件变体注记，便于审计。
 
-## 7. Output files and checksums
+## 6. 渲染参数与约束
 
-- E:\Taskbeacon\T000008-nback\references\task_plot_spec.yaml: sha256=159d9a049b9feab39b11600572ff86b2ba7921c0679a2fc115af2a83ce81ba13
-- E:\Taskbeacon\T000008-nback\references\task_plot_spec.json: sha256=f953273e331668b40794183feed4d13425ea7e66bb0a2c0a7aea0b51742f66f4
-- E:\Taskbeacon\T000008-nback\references\task_plot_source_excerpt.md: sha256=eec4196b83da9a1841e1cd61de6081969e9c1933a39a9ec7d8195ca06372388a
-- E:\Taskbeacon\T000008-nback\task_flow.png: sha256=a1b6c272d15d6c61936b3d91ffbed9acaf378017e746e6767ab8d0e525e28f9f
+- `output_file`: `task_flow.png`
+- `dpi`: `300`
+- `max_conditions`: `2`
+- `screens_per_timeline`: `4`
+- `screen_overlap_ratio`: `0.1`
+- `screen_slope`: `0.08`
+- `screen_slope_deg`: `25.0`
+- `screen_aspect_ratio`: `1.4545454545454546`
+- `left_margin`: `0.2`
+- `right_margin`: `0.03`
+- `top_margin`: `0.03`
+- `bottom_margin`: `0.05`
+- `qa_mode`: `local`
+- `auto_layout_feedback`:
+  - `layout pass 1: crop-only; left=0.052, right=0.053, blank=0.177`
+- `auto_layout_feedback_records`:
+  - `pass: 1`
+    `metrics`: `{'left_ratio': 0.0522, 'right_ratio': 0.0532, 'blank_ratio': 0.177}`
+- `validator_warnings`: 无
 
-## 8. Inferred/uncertain items
+## 7. 输出文件与校验和
 
-- collapsed equivalent condition logic into representative timeline: match, nomatch
+- `E:\xhmhc\TaskBeacon\benchmark\runs\task_plot_redo\T000008-nback\references\task_plot_spec.yaml`: `sha256=3c1df511a2f95694988e01ecade094624283be5274d5bc952dc5ca881bc369d2`
+- `E:\xhmhc\TaskBeacon\benchmark\runs\task_plot_redo\T000008-nback\references\task_plot_spec.json`: `sha256=0a625dc0166fae89f534b99d0f2da465e3df89b588df5fb1056ed10a6265223a`
+- `E:\xhmhc\TaskBeacon\benchmark\runs\task_plot_redo\T000008-nback\references\task_plot_source_excerpt.md`: `sha256=fe7af28c67394f89adee7b993a1289e95f4ff37c946509af8e33bb63b17b88af`
+- `E:\xhmhc\TaskBeacon\benchmark\runs\task_plot_redo\T000008-nback\task_flow.png`: `sha256=b3073db8c99025d9e8b30b60370ab10cb04e9055979e9f0279c17a171b7e6d6c`
+
+## 8. 推断项与不确定项
+
+- `match` 与 `nomatch` 在试次层面共享同一套阶段顺序和时序，因此图中折叠为代表性时间线。
+- `Probe` 的实际刺激内容来自运行时重建后的 `_digit`，无法在静态代码中固定成唯一数字，所以图中只选了一个示例数字 `5`。
+- `ITI` 是空屏阶段，图中使用不可见占位图元来表达，以避免把它画成带文字的占位屏幕。

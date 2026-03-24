@@ -21,7 +21,8 @@ This task is a classic N-Back cognitive test. Participants are shown a sequence 
 
 ## 2. Task Flow
 
-![Task flow](./task_flow.png)
+![Task Flow](task_flow.png)
+
 ### Block-Level Flow
 | Step | Description |
 |---|---|

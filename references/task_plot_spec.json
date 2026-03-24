@@ -14,8 +14,8 @@
         "background": "white"
       },
       "layout": {
-        "max_conditions": 4,
-        "screens_per_timeline": 6,
+        "max_conditions": 2,
+        "screens_per_timeline": 4,
         "screen_overlap_ratio": 0.1,
         "screen_slope": 0.08,
         "screen_slope_deg": 25.0,
@@ -53,18 +53,19 @@
               "stim_digit"
             ],
             "stimulus_example": {
-              "summary": "*",
+              "summary": "5",
               "modality": "visual",
               "draw_hint": "text",
               "render_items": [
                 {
                   "kind": "text",
-                  "text": "*",
+                  "text": "5",
                   "color": "white",
                   "pos": null,
                   "height": null
                 }
-              ]
+              ],
+              "notes": ""
             },
             "notes": ""
           },
@@ -80,18 +81,21 @@
               "stim_iti"
             ],
             "stimulus_example": {
-              "summary": "[text]",
+              "summary": "????",
               "modality": "visual",
-              "draw_hint": "text",
+              "draw_hint": "shape",
               "render_items": [
                 {
-                  "kind": "text",
-                  "text": "[text]",
-                  "color": "black",
+                  "kind": "shape",
+                  "shape": "rect",
+                  "color": "#111111",
+                  "line_color": "#111111",
+                  "line_width": 1.0,
                   "pos": null,
-                  "height": null
+                  "size": 0.85
                 }
-              ]
+              ],
+              "notes": ""
             },
             "notes": ""
           }
