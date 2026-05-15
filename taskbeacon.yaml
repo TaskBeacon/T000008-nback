@@ -8,7 +8,7 @@ maturity: smoke_tested
 version:
   release_tag: "1.1.2"
 contracts:
-  psyflow_taps: v0.1.0
+  taps: v0.1.0
 evidence:
   - references/references.yaml
   - references/task_logic_audit.md
